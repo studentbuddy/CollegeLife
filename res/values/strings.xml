@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollegeLife</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Test1">新闻界面</string>
+    <string name="Test2">校友界面</string>
+    <string name="Test3">教材界面</string>
+    <string name="Test4">更多界面</string>
+
+</resources>
